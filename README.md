@@ -1,8 +1,8 @@
 # 🛒 Super Store Sales Dashboard
 
 **Internship Project - Codtech IT Solutions**  
-**Name**: B. Thrisha  
-**Intern ID**: CT04DF777  
+**Name**: Riya Phagna
+**Intern ID**: CT04DF942
 **Domain**: Power BI  
 **Duration**: 4 Weeks  
 **Mentor**: Neela Santosh
@@ -118,5 +118,6 @@ superstore-sales-dashboard/
 └── README.md # Project overview and documentation
 
 ## 📁  Output
+![Image](https://github.com/user-attachments/assets/d99d1454-7375-4b99-89ba-171b31265fbe)
 
 
